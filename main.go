@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Running vilner test")
+	fmt.Println("Running vulner test")
 }
